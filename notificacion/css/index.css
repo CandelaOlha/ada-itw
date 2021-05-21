@@ -1,0 +1,56 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body {
+    background-color:#f9f9fb;
+}
+
+.card {
+    background-color:#fff;
+    width:410px;
+    height:auto;
+    padding:40px;
+    border-radius:10px;
+    margin: 180px auto;
+}
+
+.icon {
+    font-size:36px;
+}
+
+h1, p {
+    font-family:"Nunito", sans-serif;
+    color:#2b3551;
+}
+
+.title {
+    font-size:24px;
+    font-weight:bold;
+    margin-bottom:20px;
+}
+
+.explanation, .log-in {
+    font-size:16px;
+    font-weight:regular;
+    line-height:1.5;
+    margin-bottom:20px;
+}
+
+a {
+    color:#578ee4;
+    text-decoration:none;
+}
+
+#cta {
+    background-color:#578ee4;
+    color:#fff;
+    border-color:#578ee4;
+    box-shadow:none;
+    font-family:"Nunito", sans-serif;
+    font-size:16px;
+    padding:6px 32px;
+    border-radius:10px;
+}

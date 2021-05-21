@@ -1,0 +1,43 @@
+.barra {
+    width:500px;
+    height:30px;
+    background-color:#e9e9e9;
+    border-radius:100px;
+    padding:3px;
+    margin:10px;
+}
+
+.diez {
+    width:10%;
+    height:100%;
+    background-color:rgb(1, 162, 1);
+    border-radius:100px;
+}
+
+.veinticinco {
+    width:25%;
+    height:100%;
+    background-color:rgb(1, 162, 1);
+    border-radius:100px;
+}
+
+.cincuenta {
+    width:50%;
+    height:100%;
+    background-color:rgb(1, 162, 1);
+    border-radius:100px;
+}
+
+.setenticinco {
+    width:75%;
+    height:100%;
+    background-color:rgb(1, 162, 1);
+    border-radius:100px;
+}
+
+.noventa {
+    width:90%;
+    height:100%;
+    background-color:rgb(1, 162, 1);
+    border-radius:100px;
+}
